@@ -62,7 +62,8 @@ tbody{
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  word-spacing: 23%;
+  text-align: center;
+  word-wrap: break-word;
 
   color: #d2d2d2;
   border: none;
