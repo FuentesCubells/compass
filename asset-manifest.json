@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-gh-pages/static/js/main.862ba2e2.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.862ba2e2.js.map": "/react-gh-pages/static/js/main.862ba2e2.js.map"
+    "main.js": "/compass/static/js/main.862ba2e2.js",
+    "index.html": "/compass/index.html",
+    "main.862ba2e2.js.map": "/compass/static/js/main.862ba2e2.js.map"
   },
   "entrypoints": [
     "static/js/main.862ba2e2.js"
